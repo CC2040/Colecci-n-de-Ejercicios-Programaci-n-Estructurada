@@ -1,11 +1,11 @@
 #ifndef ESTRUCTURAS_H
 #define ESTRUCTURAS_H
 
-typedef struct {
+struct Estudiante {
     char nombre[100];
     int edad;
     double promedio;
-}Estudiante;
+};
 
 void implement_estudiante1();
 void implement_estudiante2();

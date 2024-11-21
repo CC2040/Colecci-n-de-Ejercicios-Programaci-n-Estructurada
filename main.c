@@ -15,7 +15,7 @@ int main() {
     mostrarUniones();
 
     /*Parte Ejercicio 3 (Copiar Estructuras)*/
-    struct Estudiante estudiantecopia1={"Jose",23,8.89};
+    struct Estudiante2 estudiantecopia1={"Jose",23,8.89};
     mostrarEstudiantecopia(copiarEstudiante(estudiantecopia1));
 
     /*Parte Ejercicio 4 (Alias de estructuras)*/

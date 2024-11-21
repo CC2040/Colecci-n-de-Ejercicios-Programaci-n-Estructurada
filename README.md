@@ -48,12 +48,12 @@ Propuesta de Solución:
 
 a. Constitución de una estructura
 
-c```
+c````
 struct Estudiante {
     char nombre[50];
     int edad;
     float promedio;
-};```
+};````
 
 b. Instanciación de estructuras
 
